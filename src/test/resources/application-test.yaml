@@ -1,0 +1,17 @@
+# Konfigurasi profil "test". File ini disiapkan kit, jangan diubah.
+# Test memakai MongoDB embedded (flapdoodle): unduhan sekali di run pertama, lalu offline.
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        version: 8.0.4
+
+logging:
+  level:
+    de.flapdoodle: WARN
+    org.mongodb.driver: WARN
+
+alterego:
+  seed:
+    enabled: true
+    location: classpath:seed-test/

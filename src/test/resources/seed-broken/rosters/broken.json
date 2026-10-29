@@ -1,0 +1,19 @@
+{
+  "game": "mlbb",
+  "updatedAt": "2026-10-29",
+  "players": [
+    {
+      "id": "ghost",
+      "nickname": "",
+      "fullName": "Data Rusak Untuk Test",
+      "nationality": "ID",
+      "game": "mlbb",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": "Roamer",
+      "status": "active",
+      "joinDate": "2025-01-01",
+      "displayOrder": 1
+    }
+  ]
+}

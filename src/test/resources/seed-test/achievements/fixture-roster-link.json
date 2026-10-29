@@ -1,0 +1,26 @@
+{
+  "game": "mlbb",
+  "updatedAt": "2026-10-29",
+  "_comment": "FIXTURE KHUSUS TEST. Bukan data asli. Data asli belum punya rosterIds, jadi achievement palsu ini menghubungkan pemain 'nino' agar endpoint /players/{game}/{id}/achievements bisa diuji (Q19).",
+  "achievements": [
+    {
+      "id": "fixture-roster-link",
+      "game": "mlbb",
+      "division": "Alter Ego",
+      "tournament": "FIXTURE Test Cup (bukan data asli)",
+      "tier": "C-Tier",
+      "startDate": "2020-01-15",
+      "endDate": null,
+      "placement": "5-8",
+      "placementLabel": "5th-8th",
+      "prize": null,
+      "location": null,
+      "lan": null,
+      "rosterIds": ["nino"],
+      "awards": [],
+      "highlight": false,
+      "liquipediaUrl": null,
+      "sources": []
+    }
+  ]
+}

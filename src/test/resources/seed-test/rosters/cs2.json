@@ -1,0 +1,167 @@
+{
+  "game": "cs2",
+  "updatedAt": "2026-10-16",
+  "players": [
+    {
+      "id": "bntet",
+      "nickname": "BNTET",
+      "fullName": "Hansel Ferdinand",
+      "nationality": "ID",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": null,
+      "status": "active",
+      "joinDate": "2025-07-31",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 1,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": "https://liquipedia.net/commons/images/thumb/7/77/BnTeT_at_Antwerp_Major_2022_APAC_RMR.jpg/900px-BnTeT_at_Antwerp_Major_2022_APAC_RMR.jpg"
+    },
+    {
+      "id": "pokemon",
+      "nickname": "POKEMON",
+      "fullName": "Saad Ahmed",
+      "nationality": "PK",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": null,
+      "status": "active",
+      "joinDate": "2026-08-28",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 2,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": "https://liquipedia.net/commons/images/5/51/PokemoN.png"
+    },
+    {
+      "id": "laxiee",
+      "nickname": "LAXIEE",
+      "fullName": "Maks Andryei",
+      "nationality": "MN",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": null,
+      "status": "active",
+      "joinDate": "2026-08-28",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 3,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": null
+    },
+    {
+      "id": "adex",
+      "nickname": "ADEX",
+      "fullName": "Adelin Nica",
+      "nationality": "RO",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": null,
+      "status": "active",
+      "joinDate": "2026-08-28",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 4,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": "https://liquipedia.net/commons/images/thumb/2/28/AdeX_at_La_Coupe_2023.jpeg/900px-AdeX_at_La_Coupe_2023.jpeg"
+    },
+    {
+      "id": "shadiy",
+      "nickname": "SHADIY",
+      "fullName": "Martins Gütmanis",
+      "nationality": "LV",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "player",
+      "role": null,
+      "status": "active",
+      "joinDate": "2026-08-28",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 5,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": "https://liquipedia.net/commons/images/thumb/c/cf/Shadiy_at_La_Coupe_2023.jpeg/900px-Shadiy_at_La_Coupe_2023.jpeg"
+    },
+    {
+      "id": "bali",
+      "nickname": "BALI",
+      "fullName": "Andrew Joseph",
+      "nationality": "ID",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "staff",
+      "role": "Coach",
+      "status": "active",
+      "joinDate": "2025-07-31",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 6,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": "https://liquipedia.net/commons/images/1/17/Bali_at_IEM_IV_Asian_Championship.jpg"
+    },
+    {
+      "id": "whyphy",
+      "nickname": "WHYPHY",
+      "fullName": "Avian Luthfi",
+      "nationality": "ID",
+      "game": "cs2",
+      "division": "Alter Ego",
+      "type": "staff",
+      "role": "Manager",
+      "status": "active",
+      "joinDate": "2021-05",
+      "previousTeams": [],
+      "liquipediaUrl": "https://liquipedia.net/counterstrike/Alter_Ego",
+      "photo": null,
+      "displayOrder": 7,
+      "gameSpecific": {
+        "isIGL": null
+      },
+      "sources": [
+        "https://liquipedia.net/counterstrike/Alter_Ego"
+      ],
+      "profileImg": null
+    }
+  ]
+}
