@@ -1,5 +1,7 @@
 package com.alterego.warmup;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
 
@@ -15,7 +17,13 @@ public class RosterBook {
      * IllegalStateException.
      */
     public void add(WarmupPlayer player) {
-        throw new UnsupportedOperationException("TODO Q02");
+
+        WarmupPlayer playerData = new WarmupPlayer(player.id(), player.game(), player.nickname(), player.role(),
+                player.status(), player.displayOrder());
+
+        Map<String, String> map = new HashMap<>();
+
+        map.add(playerData);
     }
 
     /** Cari pemain. Tidak ketemu = Optional kosong, BUKAN null. */
