@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:03.500 --> 00:00:07.000
+Setiap quest dimulai dari tab Pelajaran.
+
+2
+00:00:07.000 --> 00:00:13.500
+Isinya konsep, contoh kode, kesalahan umum, dan latihan di jshell.
+
+3
+00:00:13.500 --> 00:00:16.500
+Selesai membaca? Buka tab Misi.
+
+4
+00:00:16.500 --> 00:00:17.800
+Tab Misi berisi apa yang harus kamu buat.
+
+5
+00:00:17.800 --> 00:00:21.500
+Spesifikasi = perilaku yang dicek oleh test.
+
+6
+00:00:21.500 --> 00:00:26.500
+Uji = perintah test. Salin, lalu jalankan di terminal.
+
+7
+00:00:26.500 --> 00:00:30.500
+File = tempat kamu menulis kode.
+
+8
+00:00:30.500 --> 00:00:33.000
+Buka file dari bagian File: Hello.java.
+
+9
+00:00:33.000 --> 00:00:39.000
+Isinya masih throw new UnsupportedOperationException: tanda belum dikerjakan.
+
+10
+00:00:39.000 --> 00:00:43.500
+Hapus baris throw, lalu tulis kodemu sendiri di situ.
+
+11
+00:00:43.500 --> 00:00:46.000
+Baca test-nya dulu: F00_HelloTest.java.
+
+12
+00:00:46.000 --> 00:00:50.800
+Setiap assertThat = contoh input dan hasil yang diharapkan.
+
+13
+00:00:50.800 --> 00:00:55.500
+Jangan ubah file test. Yang kamu ubah hanya kode di src/main.

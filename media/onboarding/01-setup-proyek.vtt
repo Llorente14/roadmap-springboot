@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:03.500 --> 00:00:08.000
+Kit ini butuh Java 17. Cek dulu di terminal.
+
+2
+00:00:08.000 --> 00:00:12.500
+Belum ada? Install Temurin 17 dari adoptium.net, lalu buka terminal baru.
+
+3
+00:00:12.500 --> 00:00:17.500
+Buka repo kit di GitHub, lalu klik Use this template.
+
+4
+00:00:17.500 --> 00:00:22.900
+Beri nama repo. Public atau Private, terserah kamu.
+
+5
+00:00:22.900 --> 00:00:26.500
+Klik Create repository. Repo ini milikmu: tempat semua solusimu.
+
+6
+00:00:26.500 --> 00:00:31.900
+Clone repo milikmu ke laptop.
+
+7
+00:00:31.900 --> 00:00:37.500
+Maven sudah ikut di repo lewat mvnw. Tidak perlu install.
+
+8
+00:00:37.500 --> 00:00:41.000
+Buka foldernya di IntelliJ IDEA atau VS Code (Extension Pack for Java).
+
+9
+00:00:41.000 --> 00:00:44.000
+src/main = kodemu. src/test = test, jangan diubah.
+
+10
+00:00:44.000 --> 00:00:48.500
+quest-board = papan quest. quest.cmd = jalankan test lalu commit.
+
+11
+00:00:48.500 --> 00:00:51.900
+Buka quest-board/index.html di browser.
+
+12
+00:00:51.900 --> 00:00:56.500
+Mulai dari F00. Quest lain terbuka setelah prasyaratnya selesai.

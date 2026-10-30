@@ -45,3 +45,7 @@ DESIGN.md
 .agents/
 .impeccable/
 .github/modernize/
+
+### Tool video onboarding ###
+tools/video/node_modules/
+tools/video/out/

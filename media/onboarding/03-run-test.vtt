@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:03.500 --> 00:00:07.500
+Jalankan test quest dari folder repo.
+
+2
+00:00:07.500 --> 00:00:11.500
+Merah di awal itu normal: method-nya belum kamu tulis.
+
+3
+00:00:11.500 --> 00:00:17.000
+ERROR = kode melempar exception. Di sini: baris throw masih ada.
+
+4
+00:00:17.000 --> 00:00:22.500
+Hello.java:8 = file dan baris yang perlu kamu buka.
+
+5
+00:00:22.500 --> 00:00:27.000
+Sudah menulis kode? Jalankan lagi.
+
+6
+00:00:27.000 --> 00:00:31.000
+FAILURE = kode jalan, tapi hasilnya beda dari harapan.
+
+7
+00:00:31.000 --> 00:00:35.500
+Bandingkan expected dengan but was. Perbaiki, lalu ulangi.
+
+8
+00:00:35.500 --> 00:00:38.900
+Ulangi sampai semuanya lolos.
+
+9
+00:00:38.900 --> 00:00:43.500
+Hijau semua: BUILD SUCCESS. Quest siap diselesaikan.
+
+10
+00:00:43.500 --> 00:00:49.000
+Satu file gagal dikompilasi = semua test berhenti, termasuk quest lain.
+
+11
+00:00:49.000 --> 00:00:53.500
+Baca COMPILATION ERROR paling atas: file dan baris yang rusak.
+
+12
+00:00:53.500 --> 00:00:59.500
+Tanda · tampil sebagai karakter aneh? Jalankan chcp 65001 dulu.

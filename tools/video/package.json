@@ -1,0 +1,7 @@
+{
+  "name": "onboarding-video",
+  "private": true,
+  "type": "module",
+  "scripts": { "render": "node render.mjs" },
+  "devDependencies": { "playwright-core": "1.49.1" }
+}

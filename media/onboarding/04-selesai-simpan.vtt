@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:03.500 --> 00:00:08.000
+Test hijau? Jalankan .\quest F00.
+
+2
+00:00:08.000 --> 00:00:12.000
+Test diulang. Kalau hijau, kodemu otomatis di-commit.
+
+3
+00:00:12.000 --> 00:00:15.500
+Masih merah? Tidak ada commit. Perbaiki dulu, lalu ulangi.
+
+4
+00:00:15.500 --> 00:00:17.100
+Kembali ke board, tab Misi.
+
+5
+00:00:17.100 --> 00:00:23.100
+Centang kriteria yang benar-benar sudah kamu penuhi.
+
+6
+00:00:23.100 --> 00:00:31.900
+Tulis jurnal minimal 120 karakter: apa yang dipelajari, apa yang bikin buntu.
+
+7
+00:00:31.900 --> 00:00:39.500
+Klik Selesaikan quest: XP masuk, stempel LULUS muncul.
+
+8
+00:00:39.500 --> 00:00:44.000
+Push supaya solusimu aman di GitHub.
+
+9
+00:00:44.000 --> 00:00:48.500
+Atau sekaligus: .\quest F00 -Push.
+
+10
+00:00:48.500 --> 00:00:52.100
+Progres board hanya tersimpan di browser ini.
+
+11
+00:00:52.100 --> 00:00:57.500
+Klik Ekspor JSON secara rutin sebagai cadangan. Impor di browser lain.
