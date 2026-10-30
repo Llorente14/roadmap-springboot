@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Vercel CLI ###
+.vercel/
+
 ### Asisten AI & tooling lokal (tidak ikut repo) ###
 CLAUDE.md
 AGENTS.md
