@@ -192,7 +192,15 @@ git add .
 git commit -m "chore: learning kit scaffold"
 ```
 
-Setelah setiap quest: `git add . ; git commit -m "feat(q05): parse rupiah prices"`.
+Setelah sebuah quest hijau, simpan solusinya dengan runner:
+
+```powershell
+.\quest F04              # jalankan test F04; kalau hijau → commit "solve(F04): <judul>"
+.\quest F04 F05          # beberapa quest, satu commit per quest
+.\quest Q12 -Push        # commit lalu push
+```
+
+Runner hanya meng-commit file milik quest itu (F00–Q07), atau semua perubahan di `src/main` + `pom.xml` (Q08–Q26). Kalau test masih merah, tidak ada commit.
 Jangan pernah commit file `.env` atau connection string. Q10 memeriksanya.
 
 ---

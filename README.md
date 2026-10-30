@@ -16,6 +16,7 @@ Kit belajar Spring Boot. Kamu membangun **backend REST untuk data asli Alter Ego
    ```
 
    Merah = normal. Buat jadi hijau.
+5. Sudah hijau? Simpan solusimu sebagai commit: `.\quest F00` (detail di GUIDE §7).
 
 ## Isi repo
 
