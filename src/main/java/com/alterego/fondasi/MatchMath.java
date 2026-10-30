@@ -13,7 +13,11 @@ public final class MatchMath {
      * games = 0 -> 0.0 (jangan sampai membagi dengan nol).
      */
     public static double winRate(int wins, int games) {
-        throw new UnsupportedOperationException("TODO F01");
+        if (games == 0) {
+            return 0.0;
+        }
+        ;
+        return wins * 100.0 / games;
     }
 
     /**
@@ -21,21 +25,28 @@ public final class MatchMath {
      * kda(5, 2, 0) -> 2.5 (bukan 2!).
      */
     public static double kda(int kills, int deaths, int assists) {
-        throw new UnsupportedOperationException("TODO F01");
+        if (deaths == 0) {
+            deaths = 1;
+        }
+        return (kills * 1.0 + assists) / deaths;
     }
 
     /** true kalau n genap. */
     public static boolean isEven(int n) {
-        throw new UnsupportedOperationException("TODO F01");
+        if (n % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     /** Menit penuh dari jumlah detik. minutes(725) -> 12 */
     public static int minutes(int totalSeconds) {
-        throw new UnsupportedOperationException("TODO F01");
+        return totalSeconds / 60;
     }
 
     /** Sisa detik setelah menit penuh. seconds(725) -> 5 */
     public static int seconds(int totalSeconds) {
-        throw new UnsupportedOperationException("TODO F01");
+        return totalSeconds % 60;
     }
 }
